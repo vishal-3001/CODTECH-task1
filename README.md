@@ -9,12 +9,12 @@ Mentor Details:
 Name: MUZAMMIL AHMED                                                                                                                          
 Contact: +91 9640128015                                                                                                               
 
-**Overview of the Project**
+## **Overview of the Project**
 
 Title of Project: Password Strength Checker
 Password Strength Checker
 
-Description
+## Description
 The Password Strength Checker is a GUI-based application that assesses the strength of a given password based on various criteria such as length, uppercase and lowercase letters, numbers, and special characters. The application provides a score and feedback on the password's strength, and also checks if the password has been used before.
 
 ## Feature
@@ -26,7 +26,7 @@ Toggle password visibility for secure entry
 User-friendly GUI interface     
 
 
-**Usage**                                                                                                    
+## **Usage**                                                                                                    
 Run the application by executing the password_strength_checker.py file.
 Enter a password in the input field. 
 
@@ -36,6 +36,6 @@ If the password has been used before, a warning message will be displayed.
 To toggle password visibility, click the "Show" or "Hide" button.                                                               
 
 
-**Requirements**                                                                       
+## **Requirements**                                                                       
 Python 3.x                                                                                   
 Tkinter library (included with Python)
