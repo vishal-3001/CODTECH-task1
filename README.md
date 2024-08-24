@@ -1,14 +1,15 @@
 **Student Details:**                                
 Name: Vishal Ganesh Arsul                                                                                                 
 Company: CODETECH IT SOLUTIONS                                                                                 
-ID: CT08DS__                                                                                       
-Domain:                                                                       
-Duration: 
-Mentor Details:
-Name: MUZAMMIL AHMED
-Contact: +91 9640128015
+ID:CT08DS6318                                                                                 
+Domain: Cyber security and Ethical hacking                                                                       
+Duration:  4 WEEKS from AUGUST 1st, 2024 to SEPTEMBER 1st,
+2024.                                                                                                                                      
+Mentor Details:                                                                                                                                  
+Name: MUZAMMIL AHMED                                                                                                                          
+Contact: +91 9640128015                                                                                                               
 
-Overview of the Project
+**Overview of the Project**
 
 Title of Project: Password Strength Checker
 Password Strength Checker
