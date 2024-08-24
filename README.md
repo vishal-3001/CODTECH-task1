@@ -3,7 +3,10 @@ Name: Vishal Ganesh Arsul
 Company: CODETECH IT SOLUTIONS                                                                                 
 ID: CT08DS__                                                                                       
 Domain:                                                                       
-Duration:                             
+Duration: 
+Mentor Details:
+Name: MUZAMMIL AHMED
+Contact: +91 9640128015
 
 Overview of the Project
 
